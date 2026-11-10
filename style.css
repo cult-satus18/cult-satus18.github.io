@@ -1,0 +1,19 @@
+
+
+h1 {
+  color: red;
+}
+
+body {
+  background-color: black;
+  color: red; }
+
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+}
+
+
